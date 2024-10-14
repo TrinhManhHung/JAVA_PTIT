@@ -39,6 +39,7 @@ public class J07010_DANH_SACH_SINH_VIEN_TRONG_FILE_2{
         for(SinhVien x : arr){
             System.out.println(x);
         }
+        sc.close();
     }
 }
 

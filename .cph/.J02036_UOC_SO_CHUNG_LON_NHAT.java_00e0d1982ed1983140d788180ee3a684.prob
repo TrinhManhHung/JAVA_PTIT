@@ -1,0 +1,1 @@
+{"name":"Local: J02036_UOC_SO_CHUNG_LON_NHAT","url":"d:\\JAVA PTIT\\J02036_UOC_SO_CHUNG_LON_NHAT.java","tests":[{"id":1728915818776,"input":"2\n3\n1 2 3\n3\n5 10 5","output":"1 2 3 6 3\n5 10 10 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\JAVA PTIT\\J02036_UOC_SO_CHUNG_LON_NHAT.java","group":"local","local":true}
